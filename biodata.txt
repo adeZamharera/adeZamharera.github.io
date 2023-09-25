@@ -1,3 +1,4 @@
 nama  : ade zamharera
 npm   : 22105110014
-prodi : teknik informatika d3
+program studi : teknik informatika d3
+fakultas : taknik
